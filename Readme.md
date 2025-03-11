@@ -1,5 +1,6 @@
-terminal 1:
-nc -l 9991
+streaming_words.py
 
-terminal 2:
-python application.py
+- terminal 1:
+  `nc -l 9991`
+- terminal 2:
+  `python application.py`
